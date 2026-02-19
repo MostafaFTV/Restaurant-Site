@@ -18,10 +18,6 @@
 - Frontend: HTML/CSS (Vazirmatn) + Grid/Flexbox  
 - امنیت: Prepared Statements • password_hash • transaction  
 
-## نصب سریع
-1. دیتابیس `restaurant_db.sql` را import کنید  
-2. فایل `includes/db.php` را تنظیم کنید  
-3. پروژه را روی localhost اجرا کنید  
 
 
 پروژه آموزشی است و می‌تواند پایه خوبی برای اضافه کردن پرداخت آنلاین، اعلان و اپ موبایل باشد.
